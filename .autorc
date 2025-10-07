@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "davidkonradov-netizen",
+  "repo": "container-8oy1yc4",
+  "name": "davidkonradov-netizen",
+  "email": "davidkonradov@gmail.com",
+}
